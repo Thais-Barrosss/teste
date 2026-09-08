@@ -64,7 +64,8 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 
-    //testando o git add.
+    //testando git branch
+    
 }
 
 
