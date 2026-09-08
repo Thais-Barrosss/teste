@@ -63,6 +63,8 @@ function reiniciarJogo() {
     tentativas = 1;
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
+
+    //testando o git add.
 }
 
 
